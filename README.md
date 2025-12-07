@@ -5,15 +5,15 @@ It uses a Linear Regression machine learning model and a Flask API with a simple
 
 Features: 
 
->> Predict home prices using basic inputs
->> Trained ML model using real estate data
->> Flask API for backend
+>> Predict home prices using basic inputs,
+>> Trained ML model using real estate data,
+>> Flask API for backend,
 >> Simple HTML/JS frontend for predictions
 
 Technologies: 
 
->>Python
->> NumPy, Pandas, Scikit-Learn
->> Flask
->> Pickle
+>>Python,
+>> NumPy, Pandas, Scikit-Learn,
+>> Flask,
+>> Pickle,
 >> HTML, CSS, JavaScript
